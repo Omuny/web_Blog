@@ -13,4 +13,10 @@ public class MainController {
         return "home";
     }
 
+    @GetMapping("/about") // Переход на главную страницу
+    public String about(Model model) {
+        model.addAttribute("title", "Страница про нас");
+        return "about";
+    }
+
 }
