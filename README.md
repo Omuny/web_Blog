@@ -1,7 +1,7 @@
-# Веб-блог на Spring Boot
+# <div align="center">Веб-блог на Spring Boot</div> 
 
 <div align="center">
-     <img src="https://github.com/user-attachments/assets/f6abfaba-1d8b-46ff-bc86-f80c92f6b6f3" alt="Главная страница" width="500">
+     <img src="https://github.com/user-attachments/assets/0221c15a-0d8a-4bce-9113-5ffd7ddcce7f" alt="Главная страница" width="700">
 </div>
 
 Веб-приложение блога с использованием Spring Boot, Spring Data JPA и Thymeleaf. Позволяет создавать, редактировать и удалять статьи. Статьи хранятся в базе данных MySQL.
@@ -106,7 +106,7 @@ mvn spring-boot:run
   ```
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/991bf27d-83fd-4255-9c6d-651969aadf5a" alt="Создание статьи" width="350">
+    <img src="https://github.com/user-attachments/assets/d1beb199-7ee1-4856-a6c7-0905e3c6bc47" alt="Создание статьи" width="550">
 </div>
 
 - Редактирование (/blog/{id}/edit):
@@ -138,6 +138,6 @@ mvn spring-boot:run
   ```
 
 <div align="center"> 
-     <img src="https://github.com/user-attachments/assets/6b4a3203-821e-4736-adbc-7e47e0b346ba" alt="Страница блога">
-     <img src="https://github.com/user-attachments/assets/c68f8735-4b42-43ba-9f45-0f6793f54306" alt="Детали статьи">
+     <img src="https://github.com/user-attachments/assets/22d68649-2b99-4c83-8cfd-9d7c46d44e8f" alt="Страница блога" width="700">
+     <img src="https://github.com/user-attachments/assets/1d00edb0-fd5c-4db7-a727-efe2657b9892" alt="Детали статьи" width="700">
 </div>
